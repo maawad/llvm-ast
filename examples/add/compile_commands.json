@@ -1,0 +1,7 @@
+[
+    {
+      "directory": "/home/muhammad/github/llvm-ast/examples/add",
+      "command": "clang++ -std=c++17 -I /opt/rocm-5.4.2/llvm/lib/clang/15.0.0/include -c add_two_numbers.cpp",
+      "file": "examples/add/add_two_numbers.cpp"
+    }
+  ]

@@ -1,0 +1,7 @@
+[
+    {
+      "directory": "/home/muhammad/github/llvm-ast/examples/hip_add",
+      "command": "hipcc -I /opt/rocm-5.4.2/llvm/lib/clang/15.0.0/include -c add_two_numbers.hip",
+      "file": "examples/hip_add/add_two_numbers.hip"
+    }
+  ]
